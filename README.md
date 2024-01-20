@@ -5,7 +5,7 @@
 - 📊 Data Analyst
 - 🎓 Computer Science graduate
 - 🔍 Passionate about exploring new technologies
-- 🌱 Currently learning SQL,Python,Power BI,Advanced Excel
+- 🌱 Currently learning **SQL**,**Python**,**Power BI**,**Advanced Excel**
 - 📚 Interested in doing insights
 
 ### 🌐 Connect with Me
