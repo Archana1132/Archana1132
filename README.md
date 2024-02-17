@@ -4,9 +4,9 @@
 ### 🚀 About Me
 - 📊 Data Analyst
 - 🎓 Computer Science graduate
-- 🔍 Passionate about exploring new technologies
+- 🔍 Passionate about exploring New Technologies
 - 🌱 Currently learning **SQL**,**Python**,**Power BI**,**Advanced Excel**
-- 📚 Interested in doing insights
+- 📚 Interested in doing Insights
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/archana-balasubramanian-094439291/)
