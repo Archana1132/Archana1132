@@ -9,7 +9,7 @@
 - 📚 Interested in doing Insights
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/archana-balasubramanian-094439291/)
+- [LinkedIn](https://www.linkedin.com/in/archana-b-analyst/)
 
 ### 🛠️ Projects
 - Excel [Finance_Sales_Analysis](https://www.linkedin.com/posts/archana-balasubramanian-094439291_financesalesanalysis-activity-7151179343027683328-7G9Q?utm_source=share&utm_medium=member_desktop)
